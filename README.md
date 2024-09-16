@@ -1,2 +1,2 @@
 # CSCE_331_layla
-Hi! This is Layla Donia.
+Howdy! My name is Layla Donia.
